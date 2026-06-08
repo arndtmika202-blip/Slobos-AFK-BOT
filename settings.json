@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "eisenherzsmp.minekeep.gg",
-    "port": 29195,
+    "port": 25565,
     "version": "1.21.1"
   },
   "position": {
