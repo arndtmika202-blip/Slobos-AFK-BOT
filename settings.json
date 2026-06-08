@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "JamatoP",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "eisenherzsmp.minekeep.gg",
-    "port": 25565,
+    "ip": "ManneSMP.aternos.me",
+    "port": 11454,
     "version": "1.21.1"
   },
   "position": {
